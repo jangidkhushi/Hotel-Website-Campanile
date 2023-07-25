@@ -265,7 +265,7 @@ input{
 
 
 .counter{
-  background-image: url("hotel10.jpg");
+  background-image: url("images/hotel10.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 30vh;
@@ -472,7 +472,7 @@ input{
 
 /*-------customer--------*/
 .Customer{
-  background-image: url("image2.jpg");
+  background-image: url("images/image2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 70vh;
@@ -691,29 +691,6 @@ footer label{
 
 
 
-/*.contact-bg{
-    height: 40vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(image/contact-bg.jpg);
-    background-position: 50% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    text-align: center;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}*/
-/*.contact-bg h3{
-    font-size: 1.3rem;
-    font-weight: 400;
-}
-.contact-bg h2{
-    font-size: 3rem;
-    text-transform: uppercase;
-    padding: 0.4rem 0;
-    letter-spacing: 4px;
-}*/
 .contact-section{
   position: relative;
 
@@ -743,9 +720,7 @@ footer label{
     font-weight: 300;
     opacity: 0.9;
 }
-/*.contact-bg .text{
-    margin: 1.6rem 0;
-}*/
+
 .contact-body{
     max-width: 1320px;
     margin: 0 auto;
